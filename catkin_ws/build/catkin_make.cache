@@ -1,0 +1,2 @@
+smb_common/smb_control:smb_common/smb_description:smb_common/smb_gazebo:smb_custom_simulation:turtlebot3:turtlebot3_msgs:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations:turtlebot4/turtlebot3_bringup:turtlebot4/turtlebot3_description:turtlebot4/turtlebot3_example:turtlebot4/turtlebot3_navigation:turtlebot4/turtlebot3_slam:turtlebot4/turtlebot3_teleop
+-DCATKIN_DEVEL_PREFIX=/home/pc/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pc/catkin_ws/install -G Unix Makefiles
